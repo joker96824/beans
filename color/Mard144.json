@@ -1,0 +1,717 @@
+{"data":[
+    {
+      "color": "#FAF4C8",
+      "colorCode": "A1",
+      "displayOrder": 1
+    },
+    {
+      "color": "#FFFFD5",
+      "colorCode": "A2",
+      "displayOrder": 2
+    },
+    {
+      "color": "#FEFF8B",
+      "colorCode": "A3",
+      "displayOrder": 3
+    },
+    {
+      "color": "#FBED56",
+      "colorCode": "A4",
+      "displayOrder": 4
+    },
+    {
+      "color": "#F4D738",
+      "colorCode": "A5",
+      "displayOrder": 5
+    },
+    {
+      "color": "#FEAC4C",
+      "colorCode": "A6",
+      "displayOrder": 6
+    },
+    {
+      "color": "#FE8B4C",
+      "colorCode": "A7",
+      "displayOrder": 7
+    },
+    {
+      "color": "#FFDA45",
+      "colorCode": "A8",
+      "displayOrder": 8
+    },
+    {
+      "color": "#FF995B",
+      "colorCode": "A9",
+      "displayOrder": 9
+    },
+    {
+      "color": "#F77C31",
+      "colorCode": "A10",
+      "displayOrder": 10
+    },
+    {
+      "color": "#FFDD99",
+      "colorCode": "A11",
+      "displayOrder": 11
+    },
+    {
+      "color": "#FE9F72",
+      "colorCode": "A12",
+      "displayOrder": 12
+    },
+    {
+      "color": "#FFC365",
+      "colorCode": "A13",
+      "displayOrder": 13
+    },
+    {
+      "color": "#FD543D",
+      "colorCode": "A14",
+      "displayOrder": 14
+    },
+    {
+      "color": "#FFF365",
+      "colorCode": "A15",
+      "displayOrder": 15
+    },
+    {
+      "color": "#E6EE31",
+      "colorCode": "B1",
+      "displayOrder": 16
+    },
+    {
+      "color": "#63F347",
+      "colorCode": "B2",
+      "displayOrder": 17
+    },
+    {
+      "color": "#9EF780",
+      "colorCode": "B3",
+      "displayOrder": 18
+    },
+    {
+      "color": "#5DE035",
+      "colorCode": "B4",
+      "displayOrder": 19
+    },
+    {
+      "color": "#35E352",
+      "colorCode": "B5",
+      "displayOrder": 20
+    },
+    {
+      "color": "#65E2A6",
+      "colorCode": "B6",
+      "displayOrder": 21
+    },
+    {
+      "color": "#3DAF80",
+      "colorCode": "B7",
+      "displayOrder": 22
+    },
+    {
+      "color": "#1C9C4F",
+      "colorCode": "B8",
+      "displayOrder": 23
+    },
+    {
+      "color": "#95D3C2",
+      "colorCode": "B10",
+      "displayOrder": 24
+    },
+    {
+      "color": "#5D722A",
+      "colorCode": "B11",
+      "displayOrder": 25
+    },
+    {
+      "color": "#166F41",
+      "colorCode": "B12",
+      "displayOrder": 26
+    },
+    {
+      "color": "#CAEB7B",
+      "colorCode": "B13",
+      "displayOrder": 27
+    },
+    {
+      "color": "#ADE946",
+      "colorCode": "B14",
+      "displayOrder": 28
+    },
+    {
+      "color": "#2E5132",
+      "colorCode": "B15",
+      "displayOrder": 29
+    },
+    {
+      "color": "#C5ED9C",
+      "colorCode": "B16",
+      "displayOrder": 30
+    },
+    {
+      "color": "#9BB13A",
+      "colorCode": "B17",
+      "displayOrder": 31
+    },
+    {
+      "color": "#E6EE49",
+      "colorCode": "B18",
+      "displayOrder": 32
+    },
+    {
+      "color": "#24B88C",
+      "colorCode": "B19",
+      "displayOrder": 33
+    },
+    {
+      "color": "#C2F0CC",
+      "colorCode": "B20",
+      "displayOrder": 34
+    },
+    {
+      "color": "#E8FFE7",
+      "colorCode": "C1",
+      "displayOrder": 35
+    },
+    {
+      "color": "#A9F9FC",
+      "colorCode": "C2",
+      "displayOrder": 36
+    },
+    {
+      "color": "#A0E2FB",
+      "colorCode": "C3",
+      "displayOrder": 37
+    },
+    {
+      "color": "#41CCFF",
+      "colorCode": "C4",
+      "displayOrder": 38
+    },
+    {
+      "color": "#01ACEB",
+      "colorCode": "C5",
+      "displayOrder": 39
+    },
+    {
+      "color": "#50AAF0",
+      "colorCode": "C6",
+      "displayOrder": 40
+    },
+    {
+      "color": "#3677D2",
+      "colorCode": "C7",
+      "displayOrder": 41
+    },
+    {
+      "color": "#0F54C0",
+      "colorCode": "C8",
+      "displayOrder": 42
+    },
+    {
+      "color": "#324BCA",
+      "colorCode": "C9",
+      "displayOrder": 43
+    },
+    {
+      "color": "#3EBCE2",
+      "colorCode": "C10",
+      "displayOrder": 44
+    },
+    {
+      "color": "#28DDDE",
+      "colorCode": "C11",
+      "displayOrder": 45
+    },
+    {
+      "color": "#1C334D",
+      "colorCode": "C12",
+      "displayOrder": 46
+    },
+    {
+      "color": "#CDE8FF",
+      "colorCode": "C13",
+      "displayOrder": 47
+    },
+    {
+      "color": "#D5FDFF",
+      "colorCode": "C14",
+      "displayOrder": 48
+    },
+    {
+      "color": "#22C4C6",
+      "colorCode": "C15",
+      "displayOrder": 49
+    },
+    {
+      "color": "#1557A8",
+      "colorCode": "C16",
+      "displayOrder": 50
+    },
+    {
+      "color": "#04D1F6",
+      "colorCode": "C17",
+      "displayOrder": 51
+    },
+    {
+      "color": "#AEB4F2",
+      "colorCode": "D1",
+      "displayOrder": 52
+    },
+    {
+      "color": "#858EDD",
+      "colorCode": "D2",
+      "displayOrder": 53
+    },
+    {
+      "color": "#2F54AF",
+      "colorCode": "D3",
+      "displayOrder": 54
+    },
+    {
+      "color": "#B843C5",
+      "colorCode": "D5",
+      "displayOrder": 55
+    },
+    {
+      "color": "#AC7BDE",
+      "colorCode": "D6",
+      "displayOrder": 56
+    },
+    {
+      "color": "#8854B3",
+      "colorCode": "D7",
+      "displayOrder": 57
+    },
+    {
+      "color": "#E2D3FF",
+      "colorCode": "D8",
+      "displayOrder": 58
+    },
+    {
+      "color": "#D5B9F8",
+      "colorCode": "D9",
+      "displayOrder": 59
+    },
+    {
+      "color": "#B9BAE1",
+      "colorCode": "D11",
+      "displayOrder": 60
+    },
+    {
+      "color": "#DE9AD4",
+      "colorCode": "D12",
+      "displayOrder": 61
+    },
+    {
+      "color": "#B90095",
+      "colorCode": "D13",
+      "displayOrder": 62
+    },
+    {
+      "color": "#8B279B",
+      "colorCode": "D14",
+      "displayOrder": 63
+    },
+    {
+      "color": "#2F1F90",
+      "colorCode": "D15",
+      "displayOrder": 64
+    },
+    {
+      "color": "#E3E1EE",
+      "colorCode": "D16",
+      "displayOrder": 65
+    },
+    {
+      "color": "#C4D4F6",
+      "colorCode": "D17",
+      "displayOrder": 66
+    },
+    {
+      "color": "#A45EC7",
+      "colorCode": "D18",
+      "displayOrder": 67
+    },
+    {
+      "color": "#D8C3D7",
+      "colorCode": "D19",
+      "displayOrder": 68
+    },
+    {
+      "color": "#9C32B2",
+      "colorCode": "D20",
+      "displayOrder": 69
+    },
+    {
+      "color": "#9A009B",
+      "colorCode": "D21",
+      "displayOrder": 70
+    },
+    {
+      "color": "#FDD3CC",
+      "colorCode": "E1",
+      "displayOrder": 71
+    },
+    {
+      "color": "#FEC0DF",
+      "colorCode": "E2",
+      "displayOrder": 72
+    },
+    {
+      "color": "#FFB7E7",
+      "colorCode": "E3",
+      "displayOrder": 73
+    },
+    {
+      "color": "#E8649E",
+      "colorCode": "E4",
+      "displayOrder": 74
+    },
+    {
+      "color": "#F551A2",
+      "colorCode": "E5",
+      "displayOrder": 75
+    },
+    {
+      "color": "#F13D74",
+      "colorCode": "E6",
+      "displayOrder": 76
+    },
+    {
+      "color": "#C63478",
+      "colorCode": "E7",
+      "displayOrder": 77
+    },
+    {
+      "color": "#FFDBE9",
+      "colorCode": "E8",
+      "displayOrder": 78
+    },
+    {
+      "color": "#E970CC",
+      "colorCode": "E9",
+      "displayOrder": 79
+    },
+    {
+      "color": "#D33793",
+      "colorCode": "E10",
+      "displayOrder": 80
+    },
+    {
+      "color": "#FCDDD2",
+      "colorCode": "E11",
+      "displayOrder": 81
+    },
+    {
+      "color": "#F78FC3",
+      "colorCode": "E12",
+      "displayOrder": 82
+    },
+    {
+      "color": "#B5006D",
+      "colorCode": "E13",
+      "displayOrder": 83
+    },
+    {
+      "color": "#FFD1BA",
+      "colorCode": "E14",
+      "displayOrder": 84
+    },
+    {
+      "color": "#F8C7C9",
+      "colorCode": "E15",
+      "displayOrder": 85
+    },
+    {
+      "color": "#FD957B",
+      "colorCode": "F1",
+      "displayOrder": 86
+    },
+    {
+      "color": "#FC3D46",
+      "colorCode": "F2",
+      "displayOrder": 87
+    },
+    {
+      "color": "#F74941",
+      "colorCode": "F3",
+      "displayOrder": 88
+    },
+    {
+      "color": "#FC283C",
+      "colorCode": "F4",
+      "displayOrder": 89
+    },
+    {
+      "color": "#E7002F",
+      "colorCode": "F5",
+      "displayOrder": 90
+    },
+    {
+      "color": "#943630",
+      "colorCode": "F6",
+      "displayOrder": 91
+    },
+    {
+      "color": "#971937",
+      "colorCode": "F7",
+      "displayOrder": 92
+    },
+    {
+      "color": "#BC0028",
+      "colorCode": "F8",
+      "displayOrder": 93
+    },
+    {
+      "color": "#E2677A",
+      "colorCode": "F9",
+      "displayOrder": 94
+    },
+    {
+      "color": "#8A4526",
+      "colorCode": "F10",
+      "displayOrder": 95
+    },
+    {
+      "color": "#5A2121",
+      "colorCode": "F11",
+      "displayOrder": 96
+    },
+    {
+      "color": "#FD4E6A",
+      "colorCode": "F12",
+      "displayOrder": 97
+    },
+    {
+      "color": "#F35744",
+      "colorCode": "F13",
+      "displayOrder": 98
+    },
+    {
+      "color": "#FFA9AD",
+      "colorCode": "F14",
+      "displayOrder": 99
+    },
+    {
+      "color": "#FFE2CE",
+      "colorCode": "G1",
+      "displayOrder": 100
+    },
+    {
+      "color": "#FFC4AA",
+      "colorCode": "G2",
+      "displayOrder": 101
+    },
+    {
+      "color": "#F4C3A5",
+      "colorCode": "G3",
+      "displayOrder": 102
+    },
+    {
+      "color": "#EDB045",
+      "colorCode": "G5",
+      "displayOrder": 103
+    },
+    {
+      "color": "#E99C17",
+      "colorCode": "G6",
+      "displayOrder": 104
+    },
+    {
+      "color": "#9D5B3E",
+      "colorCode": "G7",
+      "displayOrder": 105
+    },
+    {
+      "color": "#753B32",
+      "colorCode": "G8",
+      "displayOrder": 106
+    },
+    {
+      "color": "#E6B483",
+      "colorCode": "G9",
+      "displayOrder": 107
+    },
+    {
+      "color": "#D98C39",
+      "colorCode": "G10",
+      "displayOrder": 108
+    },
+    {
+      "color": "#E0C593",
+      "colorCode": "G11",
+      "displayOrder": 109
+    },
+    {
+      "color": "#FFC890",
+      "colorCode": "G12",
+      "displayOrder": 110
+    },
+    {
+      "color": "#B7714A",
+      "colorCode": "G13",
+      "displayOrder": 111
+    },
+    {
+      "color": "#8D614C",
+      "colorCode": "G14",
+      "displayOrder": 112
+    },
+    {
+      "color": "#FCF9E0",
+      "colorCode": "G15",
+      "displayOrder": 113
+    },
+    {
+      "color": "#F2D9BA",
+      "colorCode": "G16",
+      "displayOrder": 114
+    },
+    {
+      "color": "#7B524B",
+      "colorCode": "G17",
+      "displayOrder": 115
+    },
+    {
+      "color": "#FDFBFF",
+      "colorCode": "H1",
+      "displayOrder": 116
+    },
+    {
+      "color": "#FEFFFF",
+      "colorCode": "H2",
+      "displayOrder": 117
+    },
+    {
+      "color": "#B6B1BA",
+      "colorCode": "H3",
+      "displayOrder": 118
+    },
+    {
+      "color": "#89858C",
+      "colorCode": "H4",
+      "displayOrder": 119
+    },
+    {
+      "color": "#48464E",
+      "colorCode": "H5",
+      "displayOrder": 120
+    },
+    {
+      "color": "#2F2B2F",
+      "colorCode": "H6",
+      "displayOrder": 121
+    },
+    {
+      "color": "#000000",
+      "colorCode": "H7",
+      "displayOrder": 122
+    },
+    {
+      "color": "#E7D6DB",
+      "colorCode": "H8",
+      "displayOrder": 123
+    },
+    {
+      "color": "#EDEDED",
+      "colorCode": "H9",
+      "displayOrder": 124
+    },
+    {
+      "color": "#EEE9EA",
+      "colorCode": "H10",
+      "displayOrder": 125
+    },
+    {
+      "color": "#CECDD5",
+      "colorCode": "H11",
+      "displayOrder": 126
+    },
+    {
+      "color": "#FFF5ED",
+      "colorCode": "H12",
+      "displayOrder": 127
+    },
+    {
+      "color": "#F5ECD2",
+      "colorCode": "H13",
+      "displayOrder": 128
+    },
+    {
+      "color": "#CFD7D3",
+      "colorCode": "H14",
+      "displayOrder": 129
+    },
+    {
+      "color": "#BCC6B8",
+      "colorCode": "M1",
+      "displayOrder": 130
+    },
+    {
+      "color": "#8AA386",
+      "colorCode": "M2",
+      "displayOrder": 131
+    },
+    {
+      "color": "#697D80",
+      "colorCode": "M3",
+      "displayOrder": 132
+    },
+    {
+      "color": "#E3D2BC",
+      "colorCode": "M4",
+      "displayOrder": 133
+    },
+    {
+      "color": "#D0CCAA",
+      "colorCode": "M5",
+      "displayOrder": 134
+    },
+    {
+      "color": "#B0A782",
+      "colorCode": "M6",
+      "displayOrder": 135
+    },
+    {
+      "color": "#B4A497",
+      "colorCode": "M7",
+      "displayOrder": 136
+    },
+    {
+      "color": "#B38281",
+      "colorCode": "M8",
+      "displayOrder": 137
+    },
+    {
+      "color": "#A58767",
+      "colorCode": "M9",
+      "displayOrder": 138
+    },
+    {
+      "color": "#C5B2BC",
+      "colorCode": "M10",
+      "displayOrder": 139
+    },
+    {
+      "color": "#9F7594",
+      "colorCode": "M11",
+      "displayOrder": 140
+    },
+    {
+      "color": "#644749",
+      "colorCode": "M12",
+      "displayOrder": 141
+    },
+    {
+      "color": "#D19066",
+      "colorCode": "M13",
+      "displayOrder": 142
+    },
+    {
+      "color": "#C77362",
+      "colorCode": "M14",
+      "displayOrder": 143
+    }
+  ]}
